@@ -1,7 +1,15 @@
 h1 {
   color: tomato;
-  {
+}
+p::before {
+  content: "/";
+    color:blue;
+}
+p::after {
+  content: "/";
+    color:green;
+}
 img{
-  width: 200px;
-  height: 200px;
-  {
+  width: 100px;
+  height: 100px;
+}
