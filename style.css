@@ -3,11 +3,11 @@ h1 {
 }
 p::before {
   content: "/";
-    color:blue;
+  color:blue;
 }
 p::after {
   content: "/";
-    color:green;
+  color:green;
 }
 .img {
   width: 100px;
